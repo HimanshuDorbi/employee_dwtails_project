@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  
+}
+
+.gallery {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 0; 
+  width: 100%; 
+}
+
+.employee-card {
+  width: 300px;
+  text-align: center;
+}
+
+.employee-image {
+  width: 100%;
+  height: auto;
+}
+
+.employee-details {
+  margin-top: 20px;
+}
+
+.arrow-btn {
+  font-size: 2rem;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  margin: 0 20px;
+  outline: none; 
+  padding: 10px;
+}
+
+
+.arrow-btn:hover {
+  color: darkblue;
+}
+
+

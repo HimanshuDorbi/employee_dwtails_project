@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Himanshu Verma",
+      "designation": "Software Engineer",
+      "project": "E-Commerce ",
+      "yearsOfExperience": 4,
+      "image": "/images/himanshu_verma.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Shubham Tiwari",
+      "designation": "Product Manager",
+      "project": "FinTech",
+      "yearsOfExperience": 6,
+      "image": "/images/shubham_tiwari.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Ram Prasad",
+      "designation": "UI/UX Designer",
+      "project": "HealthCare",
+      "yearsOfExperience": 5,
+      "image": "/images/ram_prasad.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Shyam Kumar",
+      "designation": "Backend Developer",
+      "project": "Cloud",
+      "yearsOfExperience": 7,
+      "image": "/images/shyam_kumar.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Jyoti Sharma",
+      "designation": "Data Scientist",
+      "project": "AI Research",
+      "yearsOfExperience": 3,
+      "image": "/images/jyoti_sharma.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Anubhav Singh",
+      "designation": "DevOps Engineer",
+      "project": "Automation",
+      "yearsOfExperience": 5,
+      "image": "/images/anubhav_singh.jpg"
+    }
+  ]
+  
